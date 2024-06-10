@@ -1,2 +1,9 @@
-# sm64-coopdx-mods
-Mods for the fork of the other fork of the other other fork of the port of the decomp of Super Mario 64 that made it GOOD.
+# ComputerAxe's CoopDX Mods
+These mods are designed to run on SM64 COOPDX only, so they may have issues on vanilla SM64EX-Coop.
+
+COOPDX is better anyways, I don't know why you nutters complain about not having Android.
+
+If you don't have SM64 Coop DX or are currently running SM64EX-Coop, download the patcher from [here](https://github.com/coop-deluxe/coopdx-patcher/releases/latest/download/coopdx-patcher.zip).
+Further instructions are on [the GitHub](https://github.com/coop-deluxe/sm64coopdx/tree/main).
+
+To make downloading these more convienient, here's a list of downloads:
