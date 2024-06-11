@@ -1,0 +1,2 @@
+-- name: Config Mod
+-- description: In-dev Configuration Library Mod. Useless on its own.
