@@ -7,3 +7,6 @@ If you don't have SM64 Coop DX or are currently running SM64EX-Coop, download th
 Further instructions are on [the GitHub](https://github.com/coop-deluxe/sm64coopdx/tree/main).
 
 To make downloading these more convienient, here's a list of downloads:
+
+
+Oh yeah, and beware of the license, reposters.
